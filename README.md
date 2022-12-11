@@ -1,0 +1,1 @@
+# sample-nextjs-for-report-to-next-auth
